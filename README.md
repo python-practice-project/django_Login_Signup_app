@@ -1,2 +1,2 @@
 # django_Login_Signup_app
-Django Login Signup Project
+Python Practice Project, Django Login Signup Project
